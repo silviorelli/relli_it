@@ -25,11 +25,19 @@ disqus_shortname: myshortname
 
 # Color settings (hex-codes without the leading hash-tag)
 # http://www.colourlovers.com/palette/46688/fresh_cut_day
+# color:
+#   primary: FDF23E # giallo
+#   secondary: AEE239 # verde
+#   secondary-dark: 8FBE00 # verde scuro
+#   tertiary: FF3D84 # rosa
+
+http://www.colourlovers.com/digital-art/trends/branding/7784/StAr_I.D.
 color:
-  primary: FDF23E # giallo
-  secondary: AEE239 # verde
-  secondary-dark: 8FBE00 # verde scuro
-  tertiary: FF3D84 # rosa
+  primary: C6DAA2 # verde
+  secondary: ECE6A4 # giallo
+  secondary-dark: ECE6A4 # giallo
+  tertiary: 444 # nero
+
 
 # http://www.colourlovers.com/palette/159853/Pink_Parrot
 # sfondo giallo (FDF23E) e scritte rosa (FF3D84)
