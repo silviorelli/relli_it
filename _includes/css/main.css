@@ -345,7 +345,7 @@ form .row:first-child .floating-label-form-group {
 }
 
 footer {
-    color: #{{ site.color.tertiary }};
+    color: #{{ site.color.secondary }};
 }
 
 footer h3 {
@@ -354,7 +354,7 @@ footer h3 {
 
 footer .footer-above {
     padding-top: 50px;
-    background-color: #{{ site.color.secondary }};
+/*    background-color: #{{ site.color.secondary }};*/
 }
 
 footer .footer-col {
@@ -363,14 +363,15 @@ footer .footer-col {
 
 footer .footer-below {
     padding: 25px 0;
-    background-color: #{{ site.color.secondary-dark }};
+/*    background-color: #{{ site.color.secondary-dark }};*/
 }
 
 .btn-social {
     display: inline-block;
     width: 50px;
     height: 50px;
-    border: 2px solid #{{ site.color.tertiary }};
+    border: 2px solid #{{ site.color.secondary }};
+    color: #{{ site.color.secondary }};
     border-radius: 100%;
     text-align: center;
     font-size: 20px;
