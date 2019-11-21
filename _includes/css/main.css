@@ -26,6 +26,12 @@ a.active {
     color: #{{ site.color.primary }};
 }
 
+a.secondary {
+    color: #{{ site.color.tertiary }};
+    text-decoration: underline;
+
+}
+
 h1,
 h2,
 h3,
@@ -35,7 +41,7 @@ h6 {
     text-transform: uppercase;
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-weight: 700;
-}
+}, 
 
 hr.star-light,
 hr.star-light-tertiary,
